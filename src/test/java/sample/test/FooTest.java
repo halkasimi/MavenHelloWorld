@@ -1,6 +1,7 @@
 import junit.framework.*;
+import sample.*;
 
-public class JavaTest extends TestCase {
+public class FooTest extends TestCase {
    protected Foo foo;
    
    // assigning the values
